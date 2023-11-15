@@ -1,0 +1,26 @@
+export const img=[
+    {
+        id:1,
+        src:"./rasm/astronomy-18676161.jpg"
+    }, 
+    {
+        id:2,
+        src:"./rasm/beach-17514552.jpg"
+    },
+    {
+        id:3,
+        src:"./rasm/ocean-36055473.jpg"
+    },
+    {
+        id:4,
+        src:"./rasm/tree-736885_19204.jpg"
+    },
+    {
+        id:5,
+        src:"./rasm/q.jpg"
+    },
+    {
+        id:6,
+        src:"./rasm/e.jpg"
+    },
+]
